@@ -1,0 +1,275 @@
+body{
+    padding: 0 auto;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+#nav-line{
+    margin-left: 246px;
+    margin-top: 12px;
+}
+#dropdoen-m{
+    padding: 17px;
+}
+.search-but{
+    margin-left: 800px;
+    margin-top: -35px;
+}
+#nav-but{
+    background-color: #ffbd45;
+    border: none;
+    color: black;
+    border-radius: 5px;
+    font-size: 16px;
+    float: right;
+    margin-right: 124px;
+    margin-top: -38px;
+}
+.mac-img{
+    margin-top: -32px;
+    margin-left: 87px;
+}
+
+#div1 {
+    background-color:white;
+    height: 368px;
+    width: 69rem;
+    margin-left: -16rem;
+    margin-top: 29px;
+    position: absolute;
+
+}
+#but-1{
+    margin-left: 249px;
+    position: absolute;
+    margin-top: -92px;
+    background-color: white;
+    color: black;
+    border: none;
+}
+.food-1{
+    width: 87px;
+    margin-left: 165px;
+    margin-top: 39px;
+}
+.breakfast{
+    margin-top: 70px;
+    position: absolute;
+    margin-left: 6px;
+    font-size: 17px;
+}
+.line-nav{
+    position: absolute;
+    margin-left: 347px;
+    margin-top: -86px;
+}
+#image1{
+    height: 333px;
+    width: 748px;
+    margin-left: 90px;
+    margin-top: 84px;
+
+}
+#font-1{
+    font-weight: 800;
+    width: 80%;
+    word-spacing: -4px;
+    line-height: 3rem;
+    font-family: sans-serif;
+}
+#font-2{
+    width:80%;
+}
+#font-3{
+    font-size: 10px;
+    width:80%;
+}
+.button-1{
+    background-color: #ffbc0d;
+    color: black;
+    border: none;
+    padding: 12px 27px;
+    border-radius: 6px;
+    margin-top: 30px;
+
+}
+#font-1-2{
+    font-weight: 800;
+    width: 82%;
+    word-spacing: -4px;
+    line-height: 3rem;
+    font-family: sans-serif;
+}
+.button-2{
+    background-color: #ffbc0d;
+    color: black;
+    border: none;
+    padding: 12px 27px;
+    border-radius: 6px;
+    margin-top: 30px;
+    width: 80%;
+}
+#font-1-2-3{
+    font-weight: 800;
+    width: 90%;
+    word-spacing: -4px;
+    line-height: 3rem;
+    font-family: sans-serif;
+}
+.foot-line{
+    display: flex;
+    justify-content: space-around;
+    font-weight: 700;
+    width:90%;
+    margin-left: 18px;
+}
+.circle{
+    height: 32px;
+    width: 32px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    
+}
+.m-circle{
+    display:flex;
+    justify-content: space-between;
+    width:20%;
+    margin-left:7rem;
+
+}
+.img-logo{
+    width: 11rem;
+    margin-left: 56rem;
+    margin-top: -5rem;
+}
+.img-logo1{
+    width: 9rem;
+    margin-left: 67rem;
+    margin-top: -8rem;
+}
+.mac{
+    width: 33px;
+    margin-left: 56rem;
+    margin-top: -83px;
+}
+.pera{
+    margin-left: 61rem;
+    width: 20%;
+    margin-top: -4rem;
+}
+
+
+
+
+@media (max-width:1024px){
+
+    .mac-img {
+        margin-left: 4px;
+    }
+    #nav-line{
+        margin-left: 154px;
+    }
+    .search-but{
+        margin-left: 37rem;
+     
+    }
+    #loc-icon{
+        position: absolute;
+        margin-left: -2rem;
+    }
+    #locate-word{
+        position: absolute;
+        margin-left: 46rem;
+        width: 9rem;
+    }
+    #nav-but{
+        margin-left: 55rem;
+        position: absolute;
+        width: 7rem;
+    }
+    #but-1{
+        margin-left: 10rem;
+    }
+    .nav-sec-l{
+        margin-left: -5rem;
+    }
+    #mac-d{
+        position: absolute;
+    }
+    #mac-1{
+        margin-left: 7rem;
+    }
+    #mac-2{
+        margin-left: 1rem;
+        position: absolute;
+    }
+    #image1{
+        height: 300px;
+        width: 643px;
+        margin-left: 1rem;
+        margin-top: 6rem;
+    }
+    #font-1{
+        margin-left: -1rem;
+        width: 21rem;
+    }
+    #font-2{
+        margin-left: -1rem;
+        width: 20rem;
+    }
+    #font-3{
+        margin-left: -1rem;
+        width: 20rem;
+    }
+    .button-1{
+        margin-left: -1rem;
+        
+    }
+    #font-1-2{
+        margin-left: -1rem;
+        width: 20rem;
+    }
+    .button-2{
+        margin-left: -1rem;
+        width: 19rem;
+    }
+    #font-1-2-3{
+        margin-left: -1rem;
+    }
+    #f-1{
+        margin-left: -1rem;
+    }
+    .foot-line{
+        margin-left: -0.7rem;
+        justify-content: space-between;
+        width: 61rem;
+    }
+    .m-circle{
+        margin-left: 2rem;
+        justify-content: space-between;
+        width: 18rem;
+    }
+    .img-logo{
+        margin-left: 51rem;
+    }
+    .img-logo1{
+        margin-left: 840px;
+        width: 8rem;
+        margin-top: -4rem;
+    }
+    #fo-1{
+        display: none;
+    }
+    .mac{
+        display: none;
+    }
+    .pera{
+        display: none;
+    }
+    #last-1{
+        display: none;
+    }
+    .h-1{
+        display: none;
+    }
+    
+}
